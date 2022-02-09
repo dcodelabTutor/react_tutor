@@ -1,9 +1,9 @@
 export default function Youtube() {
   return (
-    <section>
+    <main className='content youtube'>
       <div className="inner">
         <h1>Youtube</h1>
       </div>
-    </section>
+    </main>
   )
 }

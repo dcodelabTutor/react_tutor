@@ -1,9 +1,9 @@
 export default function Department() {
   return (
-    <section>
+    <main className='content department'>
       <div className="inner">
         <h1>Department</h1>
       </div>
-    </section>
+    </main>
   )
 }

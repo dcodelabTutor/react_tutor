@@ -15,6 +15,9 @@ import Youtube from './components/sub/Youtube';
 import Location from './components/sub/Location';
 import Join from './components/sub/Join';
 
+//sass 연결
+import './scss/style.scss';
+
 export default function App() {
   return (
     <div className="App">   

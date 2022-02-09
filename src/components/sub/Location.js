@@ -1,9 +1,9 @@
 export default function Location() {
   return (
-    <section>
+    <main className='content location'>
       <div className="inner">
         <h1>Location</h1>
       </div>
-    </section>
+    </main>
   )
 }

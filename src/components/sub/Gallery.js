@@ -1,9 +1,9 @@
 export default function Gallery() {
   return (
-    <section>
+    <main className='content gallery'>
       <div className="inner">
         <h1>Gallery</h1>
       </div>
-    </section>
+    </main>
   )
 }
